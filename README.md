@@ -1,6 +1,6 @@
-# 🛒 Shop Savvy Backend
+# 🛒 thehuman.store Backend
 
-This is the **backend** of the Shop Savvy e-commerce platform, built with **Node.js**, **Express**, and **MongoDB**. It provides RESTful APIs for user authentication, product management, order processing, and admin functionality using JWT for secure access and Mongoose for MongoDB data modeling.
+This is the **backend** of thehuman.store e-commerce platform, built with **Node.js**, **Express**, and **MongoDB**. It provides RESTful APIs for user authentication, product management, order processing, and admin functionality using JWT for secure access and Mongoose for MongoDB data modeling.
 
 ---
 
